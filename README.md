@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="left">A few things about me<br><br>💻 software developer — building smart solutions with Python and AI, always aiming for clean code<br>🛠️ builder at heart — I genuinely love building things from scratch and bringing ideas to reality<br>📰 creator of Bem-te-vi — currently developing an open-source news project<br>⚙️ mechanics enthusiast — fascinated by how things work under the hood, both in the digital and physical worlds<br>🤓 forever curious — always learning something new (and probably with way too many browser tabs open)<br>🐧my favorite distro is cosmic OS</p>
+<h4 data-importer="text" align="left">A few things about me<br><br>💻 software developer — building smart solutions with Python and AI, always aiming for clean code<br>🛠️ builder at heart — I genuinely love building things from scratch and bringing ideas to reality<br>📰 creator of Bem-te-vi — currently developing an open-source news project<br>⚙️ mechanics enthusiast — fascinated by how things work under the hood, both in the digital and physical worlds<br>🤓 forever curious — always learning something new (and probably with way too many browser tabs open)<br>🐧my favorite distro is cosmic OS</h4>
 
 ###
 
