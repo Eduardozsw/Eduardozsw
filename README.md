@@ -50,7 +50,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">Languages and frameworks</h4>
+<h4 data-importer="text" align="left">Tools</h4>
 
 ###
 
